@@ -12,6 +12,7 @@
     }
   },
   "addons": [
-    "heroku-redis"
+    "heroku-redis",
+    "papertrail:choklad"
   ]
 }
