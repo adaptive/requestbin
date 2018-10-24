@@ -3,7 +3,7 @@
   "description": "Inspect HTTP requests. Debug webhooks.",
   "website": "http://requestb.in/",
   "repository": "https://github.com/Runscope/requestbin",
-  "logo": "http://requestb.in/static/img/logo-2x.png",
+  "logo": "https://raw.githubusercontent.com/Runscope/requestbin/master/requestbin/static/img/logo-runscope-2x.png",
   "keywords": ["python"],
   "env": {
     "REALM": {
